@@ -14,7 +14,7 @@ This is a simple random quote generator. It selects and displays a random quote 
 3. A random quote will be displayed on the screen.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/random-quote-generator.git`
+1. Clone the repository: `git clone https://github.com/known-27/random-quote.git`
 2. Navigate into the project directory: `cd random-quote`
 3. Install the dependencies: `npm install`
 4. Start the application: `npm start`
